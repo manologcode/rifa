@@ -12,7 +12,7 @@ demo en https://rifa.manolog.es
 Es una sencilla aplicación con elementos de PWA para que tenga un formato instalable
 en el movil, realizada en javascript que permite hacer un sorteo, es
  decir, genera números aleatorios y los muestra en un formato visual que parece
- una rifa tradicional, permite marcar el intervalo en el que se mueven los numeros.
+ una rifa tradicional, permite marcar el intervalo en el que se mueven los números.
 
 25/09/2018
 
